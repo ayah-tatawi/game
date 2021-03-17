@@ -1,0 +1,28 @@
+header{ 
+    text-align: center;
+    color: var(--main);
+    font-size: 8pc;
+    text-shadow:5px 0px 14px rgb(224, 36, 36);  
+    position: fixed;
+    top: 0;
+    width: 80%;
+    height: 180px;
+    background-image: url(../img/heart\ pattern.jpg);
+    border-radius: 15px;
+    margin: 0px 10px 0px 175px;
+}
+
+
+
+footer{
+    margin-bottom: 10px;
+    border-style: outset;
+    margin-top: 450px;
+    text-align: center;
+    }
+
+    ol{
+        list-style:decimal;
+        margin:20px 20px 20px 50px;
+         }
+     
